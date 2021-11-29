@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HarisMirza21
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C++
-- I Have Learned Python
+- 🎄 Have Learned Python
 
 
 <!---
